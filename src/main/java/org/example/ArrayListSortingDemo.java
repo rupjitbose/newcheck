@@ -1,6 +1,5 @@
 package org.example;
 
-import org.apache.commons.collections.iterators.ArrayListIterator;
 
 import java.util.ArrayList;
 import java.util.ListIterator;

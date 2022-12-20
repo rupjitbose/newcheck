@@ -1,7 +1,6 @@
 package org.example;
 
-import com.intellij.workspaceModel.ide.impl.legacyBridge.module.roots.SourceRootTypeRegistry;
-import org.jetbrains.jps.cache.statistics.SystemOpsStatistic;
+
 
 import java.util.Arrays;
 import java.util.HashMap;
